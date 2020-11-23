@@ -1,0 +1,63 @@
+/******************* Tag Selectors **********************/
+body {
+  margin: 0;
+  text-align: center;
+  background-color: Lightgreen;
+}
+
+h1 {
+  color: Darkgreen;
+  font-family: Galada;
+  font-size: 3.5rem;
+}
+
+div {
+  padding: 100px;
+}
+
+input {
+  padding: 10px;
+  font-family: Galada;
+  text-align: center;
+  font-size: 1rem;
+  background-color: pink;
+  border: 0;
+}
+
+img {
+  padding: 25px;
+}
+
+button {
+  width: 200px;
+}
+
+/***************** CLass Selectors ********************/
+.centre {
+  background-color: Grey;
+  margin: 100px;
+  height: 65vh;
+  border-radius: 10%;
+}
+
+.mainform {
+  font-family: Galada;
+  font-size: 1.5rem;
+  color: white;
+}
+
+.image {
+  width: 25%;
+  border-radius: 25%;
+}
+
+.click {
+  font-family: Galada;
+  font-size: 1rem;
+  background-color: Red;
+  border: 0;
+  border-radius: 25px;
+  padding: 10px;
+  margin: 10px;
+  color: White;
+}
